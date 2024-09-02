@@ -10,3 +10,11 @@ The study conducts a lucid AI (XAI) approach to minimize the drug dosage by the 
 - Review-Based Prediction of Side Effects: Involves identifying potential side effects based on the pattern of the patients’ reviews and medical files to improve the safety and               effectiveness of the drug dosage.
 - Interactive Visualizations: Include features to interactively play with the model’s predictions and explanations to aid the end-users in data interpretation.
 
+## Project Structure
+
+- Data: Contains the raw and processed datasets used in the project.
+- Notebooks: Jupyter notebooks that walk through the data preprocessing, model training, evaluation, and explainability processes.
+- Models: Pre-trained models and scripts for training new models.
+- Visualizations: Includes SHAP plots and other visualizations to help interpret the model's predictions.
+
+
